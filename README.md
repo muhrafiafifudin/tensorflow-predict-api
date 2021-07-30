@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### Running API
 ```
-python main.py <port>
+python3 app.py
 ```
 
 After a second or so you'll get an output showing you the app is running on the localhost
