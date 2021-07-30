@@ -27,7 +27,7 @@ Now I will open Postman and do the following :
 
 You can then hit Send :
 
-
+![Postman](https://user-images.githubusercontent.com/62749874/127580726-546d9c15-b93f-4b78-b9f4-c32155451b79.png)
 
 and sample output :
 ```
