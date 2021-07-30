@@ -35,6 +35,6 @@ and sample output :
 	'prediction' : 0,
 	'name'       : "COVID-19",
 	'desc'       : "Virus Corona atau severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) adalah virus yang menyerang sistem pernapasan. Penyakit karena infeksi virus ini disebut COVID-19. Virus Corona bisa menyebabkan gangguan ringan pada sistem pernapasan, infeksi paru-paru yang berat, hingga kematian",
-            'treatment'  : "5M (Memakai masker, Mencuci tangan pakai sabun dan air mengalir, Menjaga jarak, serta Membatasi mobilisasi dan interaksi)"
-        }
+	'treatment'  : "5M (Memakai masker, Mencuci tangan pakai sabun dan air mengalir, Menjaga jarak, serta Membatasi mobilisasi dan interaksi)"
+}
 ```
