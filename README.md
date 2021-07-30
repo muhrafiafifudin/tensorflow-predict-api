@@ -1,5 +1,5 @@
 # Flask API
-A simple Flask application that can serve predictions from a model. Reads a pickled model into memory when the Flask app is started and returns predictions through the /predict endpoint. You can also use the /train endpoint to train/retrain the model. Any sklearn model can be used for prediction.
+A simple Flask application that can serve predictions from a models. Reads a pickled model into memory when the Flask app is started and returns predictions through the /predict endpoint. You can also use the /train endpoint to train/retrain the model. Any sklearn model can be used for prediction.
 
 ### Dependencies
 - numpy
